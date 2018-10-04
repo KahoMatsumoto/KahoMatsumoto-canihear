@@ -1,0 +1,17 @@
+[
+  {
+    "magic_word": "body.magic_word",
+    "intent": "body.intent"
+  },
+  {
+    "intent": "dummy"
+  },
+  {
+    "magic_word": "dumdum",
+    "intent": "dummy"
+  },
+  {
+    "magic_word": "わからん",
+    "intent": "granma"
+  }
+]
